@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://sinchon-info-note.maphoshirts.space/sitemap.xml
+Sitemap: https://sinchon-info-note.maphoshirts.space/sitemap-pages.xml
